@@ -1,0 +1,6 @@
+E:\Аттестация_1\студенты\LogicLibrary1\obj\Debug\LogicLibrary1.csproj.CoreCompileInputs.cache
+E:\Аттестация_1\студенты\LogicLibrary1\bin\Debug\LogicLibrary1.dll
+E:\Аттестация_1\студенты\LogicLibrary1\bin\Debug\LogicLibrary1.pdb
+E:\Аттестация_1\студенты\LogicLibrary1\obj\Debug\LogicLibrary1.dll
+E:\Аттестация_1\студенты\LogicLibrary1\obj\Debug\LogicLibrary1.pdb
+E:\Аттестация_1\студенты\LogicLibrary1\obj\Debug\LogicLibrary1.csprojResolveAssemblyReference.cache
